@@ -1,0 +1,2 @@
+language = "python3"
+run = "python3 word_frequency.py praise_song_for_the_day.txt"
